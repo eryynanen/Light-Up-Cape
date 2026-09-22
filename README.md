@@ -3,7 +3,7 @@ The steps, materials, and tools necessary to develop your very own light-up cape
 # First Step: Brainstorming + Circuit Building
 Before you can begin development of the physical circuits 
 for the cape, it is crucial to create an idea for the design. 
-<img width="1170" height="1560" alt="IMG_7014" src="https://github.com/user-attachments/assets/143eebfa-a41c-433b-b7a6-e00ab77ea55f" />
+<img width="585" height="780" alt="IMG_7014" src="https://github.com/user-attachments/assets/143eebfa-a41c-433b-b7a6-e00ab77ea55f" />
 Once a design is established, you are able to 
 push towards secondary design ideas for the circuit.
 <img width="1170" height="1560" alt="IMG_7015" src="https://github.com/user-attachments/assets/f76103e7-bcb2-471b-a923-40b5e4f5a76a" />
