@@ -20,4 +20,4 @@ Once you've acquired a cape, the next step is to 3D-print the logo for your resp
 # Third Step: Sew All Components Together
 Once all components are attached, 
 celebrate because you've just made your own light up cape!
-<img width="1512" height="2016" alt="IMG_7022" src="https://github.com/user-attachments/assets/69fd1696-fb3d-4cd5-bdb8-a44cb00fc9d3" />
+<img width="756" height="1008" alt="IMG_7022" src="https://github.com/user-attachments/assets/69fd1696-fb3d-4cd5-bdb8-a44cb00fc9d3" />
